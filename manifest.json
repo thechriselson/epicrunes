@@ -12,7 +12,5 @@
 			"sizes": "256x256",
 			"type": "image/png"
 		}],
-	"display": "standalone",
-	"scope": "/",
-	"start_url": "/"
+	"display": "fullscreen",
 }
