@@ -1,6 +1,6 @@
-///////////////
+/////////////////
 // MEDIA MODAL //
-///////////////
+/////////////////
 
 if(!String.prototype.includes) {
 	String.prototype.includes = (search, start) => {
